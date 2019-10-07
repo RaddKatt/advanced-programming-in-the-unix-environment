@@ -1,1 +1,4 @@
 **/.DS_Store
+apue.3e/**
+.vagrant/
+ubuntu-bionic-18.04-cloudimg-console.log
