@@ -1,5 +1,5 @@
 # advanced-programming-in-the-unix-environment
-Book Exercises - "Advanced Programming in the UNIX Environment, Version 3
+Book Exercises for "Advanced Programming in the UNIX Environment, Version 3
 
 Course Materials: http://www.apuebook.com/code3e.html
 
